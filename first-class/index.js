@@ -90,6 +90,39 @@ function phoneNumber(){
     //phone.innerHTML = mobile
 
 }
+ var car= [
+{
+    name : 'swift',
+    model : 2022,
+    seat : 4
+ },
+ {
+    name : 'innova',
+    model : 2021,
+    seat : 7
+ },
+ {
+    nmae : 'brezza',
+    model : 2019,
+    seat : 4
+ },
+ {
+    nmae : 'audi',
+    model : 2014,
+    seat : 4
+ },
+ {
+    name : 'omini',
+    model : 2018,
+    seat : 8
+ }
+ ]
+
+ function seat(){
+
+    let cars = document.getElementById('below')
+
+ }
 
 // phoneNumber()
 
